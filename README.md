@@ -99,7 +99,7 @@ export default function SmartMatchLanding() {
 <distributionManagement>
    <repository>
      <id>github</id>
-     <name>GitHub OWNER Apache Maven Packages</name>
-     <url>https://maven.pkg.github.com/OWNER/REPOSITORY</url>
+     <name>GitHub Hailey Olson Apache Maven Packages</name>
+     <url>https://maven.pkg.github.com/OWNER/smarthomematch</url>
    </repository>
 </distributionManagement>
